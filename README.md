@@ -2,6 +2,7 @@
 
 ## Done
 * Chapter 1
+* Chapter 2
 
 ## In Progress
-* Chapter 2
+* Chapter 3
